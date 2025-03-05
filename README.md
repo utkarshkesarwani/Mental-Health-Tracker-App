@@ -86,16 +86,7 @@ To connect Firebase with the app, follow these steps:
    ```
 2. Deploy to the App Store.
 
-## Contributions
-Contributions are welcome! Follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-xyz`).
-3. Commit changes and push to GitHub.
-4. Open a pull request.
 
-## License
-This project is licensed under the **MIT License**.
 
-## Contact
-For any queries or contributions, reach out at **your-email@example.com** or create an issue in the repository.
+
 
